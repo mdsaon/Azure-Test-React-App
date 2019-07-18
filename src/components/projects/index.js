@@ -25,7 +25,7 @@ class Projects extends Component {
   sortByProjectIdASC = () => {
     this.props.sortProjectsASC();
   };
-  //Sorty by Descending
+  //Sort by Descending
   sortByProjectIdDESC = () => {
     this.props.sortProjectsDESC();
   };
